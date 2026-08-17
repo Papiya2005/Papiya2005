@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **Java,OOPs,SQL,DBMS,JDBC**
 
-- 📫 How to reach me **dharapapiya533@gmail.com**
-
-- 📄 Know about my experiences [My Resume](My Resume)
+- 📫 How to reach me **dharapapiya533@gmail.com*
 
 - ⚡ Fun fact **I enjoy learning new technologies and building projects.**
 
